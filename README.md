@@ -49,3 +49,6 @@ The [AVE](https://github.com/dawitmureja/AVE) dataset has been extended to creat
 
 This dataset can be further utilized for movie analysis tasks.
 
+## Other：
+
+For shot type recognition, please refer to [ShotTransformer](https://github.com/litchiar/ShotTransformer)
