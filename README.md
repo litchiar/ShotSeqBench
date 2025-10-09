@@ -1,6 +1,6 @@
 ## Datasets for Shot Sequence Order
 
-*Note: These datasets are from the recently submitted paper "In-depth Exploring Shot Sequence Ordering: Benchmarks, Metrics and Methods".*
+*Note: These datasets are from the recently submitted paper "Cinematic-Aware Shot Sequence Ordering: Benchmark Datasets, Kendall Tau Loss, and Cinematology Embedding".*
 
 ## Datasets List
 
